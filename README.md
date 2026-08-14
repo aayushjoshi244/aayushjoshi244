@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<h3><code>aayush@github ~ $ ./links.sh</code></h3>
+<h3><code>aayushjoshi244@github ~ $ ./links.sh</code></h3>
 
 <p><b>Full Stack Developer · AI Builder · IoT & Systems</b></p>
 
