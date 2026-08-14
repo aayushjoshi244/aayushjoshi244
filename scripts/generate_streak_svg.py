@@ -5,7 +5,7 @@ Usage: python generate_streak_svg.py [username] [output.svg]
 """
 import sys, json, os, datetime, urllib.request
 
-USER = sys.argv[1] if len(sys.argv) > 1 else "AVIVASHISHTA29"
+USER = sys.argv[1] if len(sys.argv) > 1 else "aayushjoshi244"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
 def get_data(user):
@@ -34,6 +34,7 @@ MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec
 
 n = len(contribs)
 NW = (n + 6) // 7
+
 W = LEFT + NW*(CELL+GAP) + 6
 H = TOP + 7*(CELL+GAP) + 22
 
