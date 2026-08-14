@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Aayush Joshi — ASCII portrait" /></td>
+<td valign="top"><img src="./aayushjoshi244-ascii.svg" width="370" alt="Aayush Joshi — ASCII portrait" /></td>
 <td valign="top"><img src="./wordmark.svg" width="490" alt="Aayush — 3D ASCII wordmark" /></td>
 </tr>
 </table>
